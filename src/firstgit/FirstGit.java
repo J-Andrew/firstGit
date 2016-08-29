@@ -17,6 +17,7 @@ public class FirstGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("oh shid wad up!");
+        System.out.println("1v1 me pleb!");
     }
     
 }
